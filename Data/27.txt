@@ -1,0 +1,174 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI
+HYDERABAD CAMPUS
+FIRST SEMESTER 2015 – 2016
+INFORMATION RETRIEVAL (CS F469)
+COMPREHENSIVE EXAM – PART-B
+Date: 4.12.2015
+Duration: Part B: 1 hr
+NAME
+
+Weightage [Part A + Part B: 40%]
+Type: Part B - Open Book [30 Marks]
+ID NO
+
+Q1.CLIR
+a)
+
+Consider the following phrase translations from Hindi to English, compute the distance
+reordering and complete the blanks in Table 1.
+[2.5 Marks]
+Phrase in English Translates foreign words Reordering Distance
+1
+2
+3
+4
+5
+Table 1
+Q2. Recommender Systems
+[3+2+2.5=7.5Marks]
+Considering the User-Movie ratings matrix shown in Table 2, answer questions (a) to (c)
+M1 M2 M3 M4 M5 M6 M7 M8 M9
+4
+4
+2
+1
+2
+?
+?
+?
+U1 ?
+?
+?
+?
+5
+1
+?
+?
+5
+U2 3
+?
+?
+3
+2
+2
+?
+3
+?
+U3 3
+1
+?
+2
+1
+1
+2
+4
+?
+U4 4
+1
+?
+?
+?
+?
+?
+1
+?
+U5 1
+?
+?
+?
+1
+1
+?
+1
+?
+U6 ?
+?
+4
+3
+1
+?
+5
+?
+Ua ?
+?
+Table 2
+a) Find the 3 neighbors of Ua using Cosine Similarity.
+b) Predict the rating of Ua for M5 using User-Based collaborative filtering using the similarity
+calculated in (a).
+c) What is the problem if you have to predict rating for User Ua, Movie M9 using item based
+collaborative filtering and what is it called? How is this overcome in Content-based
+recommendation system?
+
+(PTO)
+
+d) Consider the small user movie rating matrix A, using Singular Value Decomposition (SVD)
+Compute U Σ and VT .
+[8 marks]
+2 1
+A= [
+]
+1 2
+
+(PTO)
+
+Q3.Given the color histograms for the query and the three images named a, b and c with each
+histogram having four colors: red, blue, purple, and yellow where the first bin shows number of
+red pixels, second bin shows blue, third bin shows purple and fourth bin shows yellow. Compute
+the partial histogram intersection and Canberra Distance and rank the images based on both the
+distances.
+[7 Marks]
+partial histogram a
+b
+c
+intersection
+query
+rrrrrr
+rrrrrr rrrrrr
+ranking
+Canberra
+Distance
+query
+
+a
+
+b
+
+c
+rrrrrr
+
+rrrrrr
+
+rrrrrr
+
+ranking
+Q4.Page Rank
+[5 Marks]
+Consider the following web pages and the set of web pages they link to
+Page A points to pages B, C, and D.
+Page B points to pages A and D.
+Page C points to pages B and D.
+Page D points to page A.
+Trace the page rank algorithm for two iterations and fill Table 3. What is the order of the pages
+after the two iterations? Use initial PR values 1 for all nodes use d=0.85.
+Remember that one way to describe the algorithm is:
+PR(A) = (1-d) + d(PR(T1)/L(T1) + … + PR(Tn)/L(Tn))
+Iteration 1
+Iteration 2
+P(A) =
+P(A) =
+P(B) =
+
+P(B) =
+
+P(C) =
+
+P(C) =
+
+P(D) =
+
+P(D) =
+
+Table 3
+******************************** GOOD LUCK ********************************
+
+

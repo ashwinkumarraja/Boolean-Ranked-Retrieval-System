@@ -1,0 +1,306 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI
+HYDERABAD CAMPUS
+FIRST SEMESTER 2015 – 2016
+INFORMATION RETRIEVAL (CS F469)
+COMPREHENSIVE EXAM – PART-A
+Date: 4.12.2015
+Duration: Part A: 2 hrs
+Note: Answer all parts of the consecutively.
+Q1. Boolean retrieval
+
+Weightage [Part A + Part B: 40%]
+Type: Part A - Closed Book [50 Marks]
+No of pages: 3
+[0.5+0.5+0.5+1+1.5 = 4 Marks]
+
+a) The OR operator assigns a higher score to documents that contain both terms.
+[True/False]
+b) The NOT operator can be used to discover all unwanted terms that should be excluded from a
+search.
+[True/False]
+c) Proximity operators are less efficient computationally because the index needs to store
+positional information.
+[True/False]
+d) A crawler gathers documents and sends them to an indexer, which employs the following
+modules:
+(A) a stemmer;
+(B) a language detector to detect the language of each document;
+(C) a stop-word eliminator
+(D) a filter that detects the format (pdf, Word, etc.) of the document.
+Give the correct sequence in which the indexer should apply these modules to a document.
+e) Given the following Term Incidence matrix in Table1, list the documents retrieved for the
+Boolean query.
+Query:
+Bits Pilani Students Rock
+(Bits AND Students) OR((NOT Students)
+D1 0
+0
+0
+0
+AND (Pilani OR Rock))
+D2 1
+0
+0
+1
+D3
+D4
+D5
+D6
+D7
+D8
+
+0
+0
+1
+0
+1
+0
+
+0
+0
+1
+0
+0
+1
+
+1
+1
+0
+1
+1
+1
+
+0
+1
+0
+1
+0
+1
+Table 1
+
+Q2. Dictionaries and tolerant retrieval
+[0.5+1+3+2 = 6.5 Marks]
+a) If I search for term X, and term X has many synonyms, precision is more likely to be a problem
+than recall.
+[True/False]
+b) Name the type of index is suitable for spelling correction.
+c) Given the following 3-gram index shown in Table 2 with terms {gram,spam,cram,scram}, and
+input query as graam find the correct spelling and the corresponding Jaccard score(Jaccard
+score >= 0.5).You will not be graded if you just write the term without writing the Jaccard
+score.
+am$ -> {gram,spam,cram,scram}
+spa -> {spam}
+cra -> {cram, scram}
+$cr -> {cram}
+gra -> {gram}
+$gr -> {gram}
+pam -> {spam}
+$sc
+->
+ram -> {gram,cram,scram}
+{scram}
+scr -> {scram}
+$sp -> {spam}
+Table 2
+d) Given the following names Mary and Mira do they result in the same Soundex code and what is
+the Soundex code? Given the following convention for replacements.
+b, f, p, v → 1
+
+c, g, j, k, q, s, x, z → 2
+
+d, t → 3
+
+l→4
+
+m, n → 5
+
+r→6
+
+Q3. Index construction
+[2+2=4 Marks]
+a) Consider an index for 1 million documents each having a length of 1,000 words. Say there are
+100K distinct terms in total. We do not wish to keep track of term-frequency information. What
+is the space requirement for an uncompressed term-document incidence matrix.
+b) How would you create the dictionary in blocked sort-based indexing on the fly to avoid an extra
+pass through the data?
+Q4. Vector space model
+[0.5+0.5+3+3=7 Marks]
+a) Document vectors vary because different terms receive different weights in different
+documents.
+[True/False]
+b) The vector space model assumes a query and a document can be treated the same (symmetric).
+[True/False]
+c) Most IR systems are optimized for short queries. Consider a long query of more than 500
+words, evaluated by a vector space model ranking IR system. Consider the following commonly
+employed optimizations and techniques. Does the technique help process long queries
+efficiently? Answer true if it does help, and false if it does not help, and explain your answer
+briefly in the space provided as shown in Table 3.
+This technique helps long queries?
+(i) Postings for each term ordered according to weight, largest weight [True/False]
+first
+Explain:
+(ii) Using an n-gram index
+[True/False]
+Explain:
+Table 3
+d) Given a corpus containing 4 documents (A, B, D, E) and a query Q having two terms X and Y.
+If the information about the occurrences of X and Y is given as shown in Table 4.
+i. If only IDF is used for ranking which documents are considered to be most relevant for Q.
+ii. Will the ranking be same if only TF is used why or why not?
+A
+B
+D
+E
+X Rare Frequent Frequent Rare
+Frequent Frequent
+Y Rare Rare
+Table 4
+Q5. Probabilistic IR, Evaluation of IR systems and CLIR
+[0.5+0.5+2+1+7+5.5 = 16.5 Marks]
+a) In Probabilistic IR terms not present in query are equally likely to occur in any document but do
+not affect the retrieval process.
+[True/False]
+b) Stemming increases recall.
+[True/False]
+c) During Linguistic processing phase list 2 problems while dealing with CLIR with examples.
+d) In the IBM models in language translation when will the probability of 0 be assigned to a
+perfectly generated sentence and why?
+e) Consider these word alignment examples shown in Table 5.
+F1 F2 F3
+F1 F2 F3
+F1 F2 F3
+E1 X
+E1
+E1 X
+X
+E2
+X
+E2
+X
+E2
+X
+E3
+X
+E3
+E3
+X
+Alignment 1
+Alignment 2
+Alignment 3
+Table 5
+How many phrase pairs can be extracted for each alignment? What do these examples suggest
+for the relationship between number of alignment points and the number of extracted phrase
+pairs?
+f) Consider a scenario where you are asked to design a search engine for CLIR where the query
+can be input in English or Hindi and retrieve documents of either language satisfying the
+information need .The corpus consist of three different types of documents A, B and C where
+
+A. English only documents
+B. Hindi only documents
+C. Documents for which there is both a Hindi and English version.
+An example corpus is given in Table 6:
+DocId Terms in the
+DocId Terms in the
+DocId
+document
+document
+D3
+मेरे घर
+D1
+hello
+5H
+D4
+D2
+Open house
+नमस्ते प्रोफेसर
+5E
+
+Terms
+in
+document
+
+the
+
+नमस्ते, और स्वागत
+
+hello,
+and
+welcome
+The following is a translation of the Hindi words above for your own information. This
+glossary is NOT available to the IR system:
+मेरे = my
+घर = house
+नमस्ते = hello
+प्रोफेसर = professor
+और = and
+स्वागत = welcome
+Table 6
+Construct a single appropriate inverted index for the corpus consisting of the above documents
+so that when the user queries the documents from both languages can be retrieved.
+Q6. Recommender systems
+[0.5+1=1.5 Marks]
+a) Collaborative filtering assumes that if user had similar tastes in the past they will have similar
+taste in the future.
+[True/False]
+b) In the matrix decomposition using SVD for Collaborative filtering the matrix U represent
+_________________.
+c) Let A be a 500X100 matrix and the number of concepts to which it has be mapped is 5.
+i. What are the sizes (numbers of rows and columns) of U, Σ, and VT? [1.5+1+1=3.5 Marks]
+ii. How many non-zeros elements can matrix Σ have at most considering that all the variances
+are non-zero elements?
+iii. Is matrix A invertible? Explain in one sentence why/why not.
+Q7. Multimedia Information retrieval (MIR)
+[2+3+2=7 Marks]
+a) In an image retrieval system, what kind of features could be extracted from the images? How
+can the retrieval be done if the query is an image or a text query? How can you combine the
+results of retrieval based on images with the results of retrieval based on the text captions of
+the images?
+b) Consider the following 5X5 matrix in the first column of the Table 7 showing the color
+encoding for an image and the color encoding scheme in the second column of Table 7, draw
+1D histogram showing the color distributions in RGB.
+0
+0
+0
+Black
+Black
+Red
+Green
+Blue
+cyan
+255 0
+0
+Red
+Green Black
+green
+Green red
+0
+255
+0
+Green
+Blue
+Magenta Magenta Cyan
+cyan
+0
+0
+255 Blue
+Red
+Magenta Yellow Yellow white
+0
+255
+255 Cyan
+Yellow Yellow White
+Black
+Black
+255 0
+255 Magenta
+255 255 0
+Yellow
+255 255 255 White
+Table 7
+c) Given the following piece of music show how to translate it into string if the following
+encoding for the distances are used as 0, positive distance, negative distance represented as Z,
+U,D respectively.
+
+******************************** GOOD LUCK *********************************
+
+

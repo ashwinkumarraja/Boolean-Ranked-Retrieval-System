@@ -1,0 +1,53 @@
+﻿
+
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI – HYDERABAD 
+I Semester 2016-2017 (Comprehensive Exam – Closed Book)
+Course No: HSS F328                                        Marks: 40                          Date: 10/12/16
+Course Title: HRD                                              Duration: 120min                    
+Note: Every sub-bits of a given question should be answered at one place and in sequence. Sub-bits answered at other place will not be marked. 
+PART-B
+
+1. You joined a startup company namely “Preshai Consultancy”, a consultancy company that caters to software services for various clients as HR Manager. As a start up, you have major responsibilities in designing job analysis sheet, performance appraisal sheet and salary design.   Each of these issues are catered in the following way: 
+
+1.1. Job Analysis of the Project Manager: Through interview, questionnaire design and observations, your team were able to collect following information w.r.t job analysis of project manager.  Project manager is responsible for the overall direction, coordination, implementation, execution, control and completion of specific projects ensuring consistency with company strategy, commitments and goals. It can be further subcategorized as:
+to facilitate the definition of project scope, goals and deliverables ;define project tasks and resource requirements ;develop full scale project plans; assemble and coordinate project staff ;manage project budget; manage project resource allocation; plan and schedule project timelines ;track project deliverables using appropriate tools ;provide direction and support to project team ,quality assurance; constantly monitor and report on progress of the project to all stakeholders; present reports defining project progress, problems and solutions  implement and manage project changes and interventions to achieve project outputs project evaluations and assessment of results. For this he need to have knowledge of both theoretical and practical aspects of project management; knowledge of project management techniques and tools; direct work experience in project management capacity; proven experience in people management; proven experience in strategic planning proven experience in risk management; proven experience in change management; proficient in project management software.  
+
+1.2. Performance Management: You decided that performance planning will involves two stages:  goal setting and goal discussion. It will be done at the beginning of the appraisal period. The goal sheet will have four perspectives i.e Adherence to schedule, quality of work, customer satisfaction, adherence to budget. Individual goals will be drawn from the corporate goal and are mutually agreed between the employee and their manager. Each goal then has a measure and a target to be evaluated against too. After the measure has been set, each goal is then assigned a weightage depending on the criticality of the goal. The weightage can range from 1 to 5. During self-evaluation, where employees is expected to rate themselves on hard deliverables, the employee is also expected to rate themselves on certain identified attributes (learning and analytical ability, decision making, communication skills, teamwork, organizing skills) too. The rating for attributes will also ranges from 1 to5. 
+Appraisal evaluation for the employee is done by the manger as well as by the manager's manager. This helps keep any bias at bay. The employee is given a rating at the end of the process. The rating depends on the performance against a set objective as well as the difficulty score of the objective. The total score of the employee is the sum of the performance score and the attribute score. After the evaluation process is over, the performance scores of employees are rationalized. Since the system to appraise the employees is a rating system, it has loophole too. There are chances that a certain group may have an advantage over another because of having a lenient boss. In the rationalization process, the scores of all employees are bundles in groups so that they could be put in one of the five allocated performance band A to E. The appraisal information is used to identify training courses and other developmental interventions. Future objectives for both task accomplishment and individual skills development are based on the results of the evaluation
+
+
+
+1.3. Salary Design: As start up, the salary of employees was based mostly on those prevailing in the surrounding community. However, now you believe that it is the right time to consider designing formal pay structure and hence set up “compensation committee” for it. After extensive job analysis, committee identified following job as benchmark jobs: Team Engineer, Senior engineer, Data base Administrator, Financial Executive, Quality Assurance, and Project Manager. Committee feels quite strongly that 500 point methods will be the right job evaluation methods. With extensive exercise, following points were assigned to each benchmark job respectively: 100, 200, 130,130, 260. 360. 
+Market survey was conducted for benchmark job.  Market survey indicated that on average team engineer gets Rs 1800; Senior Engineer Rs 3000, Data base admin 2000, financial executive Rs 2200, Quality assurance Rs 3500 and Project Manager Rs 7500 per week. Also the committee decided to follow a policy of paying his employees about 5% above the marker rate, a policy that you believe reduces turnover and foster employee loyalty. 
+
+
+1.Design job analysis sheet of “Project Manager” based on the information provided. (10M)
+
+2. Based on the information given in caselet , draw  graphic scale performance rating.(10M)
+
+3. You are asked to determine salary of “Project leader “with 320 as job points in alignment with companies pay policy. (10M)
+
+4. There are chances that a certain group may have an advantage over another because of having a lenient boss the rationalization process, the scores of all employees are bundles in groups so that they could be put in one of the five allocated performance band A to E”. What bias is being mentioned here and how have you planned to resolve it. What appraisal component is it referring to?  (5M)
+
+5. Suggest some incentives plans that you will provide to “project manager”. Comment on some of the statutory compulsory benefit plan. (5M)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

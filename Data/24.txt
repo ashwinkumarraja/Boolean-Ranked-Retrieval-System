@@ -1,0 +1,175 @@
+Birla Institute of Technology & Science-Pilani
+Hyderabad Campus
+1st semester 2015-16
+Object Oriented Programming (CSF213) Test-1(Make-up)
+Dt: 28.09.2015
+
+Weightage: 20%
+
+Marks:
+
+Time: 60 Mins
+Type: Close Book
+Name of the Student:
+ID No:
+
++
+
++
+
+Part-A
+
+=
+
+Part-B
+
+Part-C
+
+Total
+
+====================================================================================
+
+PART-A
+
+(1X15=15M)
+
+1. JVM is platform independent.
+
+[T / F]
+
+2. Which of the following is a valid identifier in Java?
+
+[
+
+]
+
+[
+
+]
+
+(a) 4count
+
+(b) high-temp
+
+(c ) $value
+
+(d) hop/count
+
+3. In java, the range of short integer type is ____________ to ______________.
+4. Which of the following is not a valid keyword in Java?
+(a) sub (b) super (c ) volatile (d) abstract
+5. The ‘>>>=’ operator in Java is known as____________________________operator (give name).
+6. In Java, there exists automatic conversion from double to byte type.
+
+[T / F]
+
+7. When a super class object reference points to a sub-class object, it cannot invoke a method specific to
+the subclass to which the instance belongs to.
+
+[T / F]
+
+8. In Java, shift right (>>) operator has higher precedence than addition (+) operator.
+
+[T / F]
+
+9. Specialization is a bottom-up process.
+
+[ T / F]
+
+10.
+
+[
+
+In OO Approach, __________________forms the basis for modularization.
+(a ) Method
+
+11.
+
+(b ) Class
+
+(c )
+
+Inheritance
+
+(d)
+
+Instance
+
+In an Object Oriented System, there can be more than one active object present at a given point of
+time.
+
+12.
+
+]
+
+[T/F]
+
+If a member of a class is private then, a subclass in the same package is not allowed to access it.
+[ T / F]
+
+13.
+
+Which of the following OO language does not support dynamic binding?
+(a) Ada
+
+14.
+
+(b) Smalltalk
+
+(c ) C++
+
+Aggregation refers to____________________.
+
+(d) Java
+
+[
+
+]
+
+(a) Containment of objects (b) collection of objects (c ) Union of objects (d)
+15.
+
+In Java, a package is a collection of related .java files.
+
+grouping
+[ T/F ]
+
+PART-A
+1) Brief on interface and implementation w.r.t., class in object orientation.
+
+(2M)
+
+2) Characterize OOA and OOD in simple terms?
+
+(2M)
+
+3) Brief on state and identity of an object
+
+(2M)
+
+?
+
+4) Brief on persistent object.
+
+5) Brief on short circuit logical operators in Java.
+
+(2M)
+
+(2M)
+
+PART-C
+1. Brief on kinds of relationships among objects.
+
+(1)
+(2)
+1.
+2.
+
+(5M)
+
+2. Brief on elements of Object Oriented model. (5M)
+
+3. With simple example code snippets explain automatic type promotion in Java.
+(5M)
+
+

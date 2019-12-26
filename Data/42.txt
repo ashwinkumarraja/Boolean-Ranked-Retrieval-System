@@ -1,0 +1,134 @@
+﻿BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI – HYDERABAD 
+I Semester 2017-2018 (Comprehensive Exam, Part B –Open Book)
+Course No:  HSS F328             Marks:50         Date: 9/12/17    Course Title: HRD            Duration: 120 Min
+Please note: All the subsections of main questions should be answered at one place. 
+
+I. You decide to use the 500 point methods for job evaluation for car manufacturing company Mahindra & Mahindra (M&M).  After extensive job analysis, committee identified following job as benchmark jobs: Salesperson, Administrative Assistant, Accountants, Engineers and Managers(operations).
+
+Table 1: Compensable factors with degree and weightage
+Compensable factors
+Degree 1
+Degree 2
+Degree 3
+Degree 4
+SKILL (40%)
+  -Education Level
+Diploma
+Graduate
+MBA/M.Tech
+PhD 
+-Technical Expertise 
+Limited
+Intermediate
+Substantial
+Very Substantial
+RESPONSIBILITY (30%)
+-Scope of control
+Self
+Within Team
+Unit Level
+Organization Level
+-Impact of job
+Low
+Medium
+High
+Very High
+EFFORT (20%)
+-Physical Demand
+Sedentary
+Light
+Medium
+Heavy
+-Mental Attention
+Low
+Medium
+High
+Intense
+JOB CONDITIONS (10%)
+-Working Conditions
+Safe Minor Pollution
+Minor Pollution 
+Dust Exposure 
+Chemical Exposure
+-Hazard
+No Exposure
+Contact with sharp tools
+Ergonomic Hazards
+Permanent effects on health
+
+Table 2: Job description of Benchmark Jobs
+Compensable Factors
+Sales Person
+Accountants
+Administrative Assistant
+Engineers
+Managers (Operations)
+SKILL (40%)
+
+-Education Level
+Diploma
+Graduate
+Diploma
+Graduate
+MBA/MTech
+Technical Expertise
+Limited
+Intermediate
+Limited
+Very Substantial
+Substantial
+RESPONSIBILITY (30%)
+-Scope of control
+Within Team
+Unit Level
+Unit Level
+Within Team
+Organization Level
+-Impact of job
+Medium
+Medium
+Low
+High
+Very High
+EFFORT (20%)
+-Physical Demand
+Sedentary
+Sedentary
+Medium
+Medium
+Light
+-Mental Attention
+Low
+Medium
+Low
+Intense
+High
+JOB CONDITIONS (10%)
+-Working Conditions
+Safe
+Safe
+Safe
+Dust Exposure
+Safe
+-Hazard
+No Exposure
+No
+Exposure
+No
+Exposure
+Ergonomic Hazards
+No Exposure
+
+With input from the job evaluation committee and your knowledge of the organization’s mission and work content; four common compensable factors are selected: Skill (education, technical expertise), Responsibility (scope of control, impact of job), Effort (physical demand, mental attention) and Job conditions (working conditions, exposure to hazard ) with weightage 40, 30, 20 and 10 respectively with equal weightage assigned to all sub-factors except in Responsibility where scope of control  is assigned 20 and impact on job is assigned 10. Compensable factors and construction of degrees for each sub category is presented in table 1. Also job description indicated following characteristic to each of the benchmark jobs. (see table2).   Market survey was conducted with companies like Hyundai motors, Tata motors and Renault-Nissan for these benchmark jobs.  Market survey indicated that on average Salesperson gets Rs 50,000/-, Administrative Assistant Rs 60,000/-, Accountants 74,000/-, Engineers Rs 90,000/- and Managers Rs 94000/- per month respectively. Also the committee decided to follow a policy of paying his employees about 3% above the marker rate, a policy that you believe reduces turnover and foster employee loyalty.
+1.Determine the job evaluation of all the benchmark jobs using point methods. [10]
+2.Determine the salary of “Quality Assistant” with 250 as job points in alignment with companies pay policy? [10]
+3.Create PAY GRADE for benchmark jobs and assign PAY RANGE for it. Justify your choice. [5]
+
+II. In a large-scale steel plant, the grievance procedure in operation specifies the subjects coming under the purview of the procedure. These include: amenities and services, compensation, fines, increment, leave, misconduct, discharge and dismissal, promotion, safety appliances, transfer, victimization and increment. The procedure provides for three stages through which grievances could be processed. In the first stage, the employee having a grievance is required to meet his supervisor/foreman and talk it over to him. If the worker is satisfied, the matter ends here. If he is not satisfied, he has to place his grievance in writing in the prescribed form to the supervisor/foreman who is required to give a written answer within 3 days. If the worker is still dissatisfied, he may place his grievance in writing before the head of the department concerned. The head of the department is required to discuss the issue with the employee and the supervisor/foreman concerned and send his reply within 3 days of the receipt of the complaint. If the worker is not satisfied with the outcome at this stage, he may appeal in writing to the zonal works committee within 15 days of the receipt of the complaint. Unanimous decision of the zonal works committee is final. If no unanimity is reached in the committee, the worker is free to make any constitutional measure open to him.
+4. In what ways does the procedure in the steel plant differ from the model grievance procedure. In which of the stages are the union’s representatives involved in the deliberations?  What is the status of arbitration in the procedure? [5+3+2]
+III. Performance appraisal is a rigorous comprehensive process at Infosys, tied to the future development of the
+individual‘s skills and capabilities. First, an evaluation of personal skills is carried out for the tasks assigned to
+an individual during the appraisal period. The criteria used to evaluate performance on tasks are derived from
+the business goals and include: Adherence to schedule, quality of work, customer satisfaction, adherence to budget. The evaluation of personal skills and abilities is carried out for the following: learning and analytical ability, decision making, communication skills, teamwork and organizing skills. Each criterion is described and measured on a five points and been termed as exceptional, exceed expectations, meet expectations, improvement needed and unsatisfactorily. High weightage is given to business goals then personal skills. In business goals, customer satisfaction and quality of work are assigned highest priority. In case of personal skill, decision making is assigned the highest weightage. Performance appraisal is carried out in July and January. Appraisals are sought from peers, direct supervisors, subordinates and customers. A minimum of 6 to 7 appraisal reports are collected for each employee. All appraisal forms are completed on-line and the data is maintained in a central database. The appraisal information is used to identify training courses and other developmental interventions. Future objectives for both task accomplishment and individual skills development are based on the results of the evaluation.  [15]
+5. Explain briefly the general process of performance management usually carried out at Infosys with special comment on appraisal cycle, flow, instrument, appraisal model, methods, rating scale & appraisal criteria. [10]
+6. Based on the information given in caselet , develop graphic scale performance rating [5]

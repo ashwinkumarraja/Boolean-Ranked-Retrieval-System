@@ -1,0 +1,46 @@
+﻿
+
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI – HYDERABAD 
+II Semester 2012-2013 (Comprehensive Exam – Closed Book)
+Course No: MGTS C362                                          Marks: 50                          Date: 5/12/13
+Course Title: HRD                                              Duration: 120min                    
+Note: Every sub-bits of a given question should be answered at one place and in sequence. Sub-bits answered at other place will not be marked. 
+
+Q1. Performance appraisal is a rigorous comprehensive process at TCS, tied to the individual’s higher rewards as well as their career prospects.  The appraisal process is meant for all full time employees of the organization and is done every quarter for new employees (those on probation and not confirmed yet) and twice a year for others. Bur since employees move projects and may not be with one project manager for the entire appraisal period, project end appraisal and role end appraisals are conducted where applicable.
+
+Performance planning involves goal setting and goal discussion. This is done at the beginning of the appraisal period. The goal sheet has four perspectives i.e Adherence to schedule, quality of work, customer satisfaction, adherence to budget. Individual goals are drawn from the corporate goal and are mutually agreed between the employee and their manager. Each goal then has a measure and a target to be evaluated against too. After the measure has been set, each goal is then assigned a weightage depending on the criticality of the goal. The weighatge can range from 1 to 5. Each goal has a difficulty score too. During self-evaluation, where employees is expected to rate themselves on hard deliverables, the employee is also expected to rate themselves on certain identified attributes (learning and analytical ability, decision making, communication skills, teamwork, organizing skills)  too. The rating for attributes also ranges from 1 to5. 
+Appraisal evaluation for the employee is done by the manger as well as by the manager's manager. This helps keep any bias at bay. The employee is given a rating at the end of the process. The rating depends on the performance against a set objective as well as the difficulty score of the objective. The total score of the employee is the sum of the performance score and the attribute score. 
+
+Rationalization after the evaluation process is over, the performance scores of employees is rationalized. Since the system to appraise the employees is a rating system, it has loophole too. There are chances that a certain group may have an advantage over another because of having a lenient boss. In the rationalization process, the scores of all employees are bundles in groups so that they could be put in one of the five allocated performance band A to E. The appraisal information is used to identify training courses and other developmental interventions. Future objectives for both task accomplishment and individual skills development are based on the results of the evaluation. (20M)
+
+1.1. Identify and describe the components of the  performance management  carried out at TCS with special comment on appraisal cycle, flow, instrument, appraisal model, methods, rating scale & appraisal criteria. 5M
+1.2. Based on the information given in caselet , develop graphic scale performance rating .5M
+
+1.3. “There are chances that a certain group may have an advantage over another because of having a lenient boss. In the rationalization process, the scores of all employees are bundles in groups so that they could be put in one of the five allocated performance band A to E”. What bias is been mentioned here and how the TCS try to resolve it. What appraisal component is it referring to? 5M
+
+1.4. Is this a performance appraisal or performance management? Justify your choice. 5M
+
+
+
+
+
+
+Q2.  Give the primary purpose of job evaluation. Explain in detail the steps involved in  the point method of job evaluation.  (10M)
+
+              
+                           
+Q3. Greentech India (pvt.) Ltd. Employees benefit programme was considered to be one of the best in pharmaceutical industry. The company offered flexi time, telecommuting, compressed work schedule and part time options to accommodate the needs of its employees. In fact, even working part time for only 20 hours a week made an employee eligible for the benefits offered to full-time employees. As of mid 2006, about 60% of the employees opted to telecommute while 90% used flexi time option. Employees received 12 paid holidays per year of which 10 were fixed and two could be taken as per the employee’s choice. They also received three weeks of paid vacation every year. Another popular benefits was that the employees were given five weeks of paid sabbatical on completion of five years. They also paid 75% of the health care premiums. The employees also availed of an on campus grocery store and banking facility. They also offered family and childcare for working mothers. They also encouraged bringing their spouses together for company –sponsored dinners held on weekends. (10M)
+
+3.1: Do you think they had a great “benefit programme” and all the components of benefit program were covered? Mention the various benefits not provided by the company. 
+
+3.2: Suggest mandated (legally required) benefits to the HR team?
+
+
+
+
+
+
+
+
+
+

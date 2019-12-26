@@ -1,0 +1,138 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI
+HYDERABAD CAMPUS
+FIRST SEMESTER 2016 – 2017
+INFORMATION RETRIEVAL (CS F469) TEST – 2 REGULAR
+Date: 24.10.2016
+Weightage: 20 %( 60 M)
+Duration: 60min.
+Type: Closed Book
+Instructions: Answer all parts of the question together. Your answers should be brief.
+Q1. Evaluation of IR systems
+A. Consider two students issuing queries Q1 and Q2 and the following are the search results (the
+documents are ranked in the given order; the relevant documents are shown in bold).
+Q1: D1, D2, D3, D4, D5, D6, D7, D8, D9, D10
+[2.5+4+3.5=10M]
+Q2: D1, D2, D3, D4, D5, D6, D7, D8, D9, D10.
+For Q1 and Q2 the total number of relevant documents are 4 and 5 respectively.
+i. Compute the precision and recall at each rank for Q1.
+ii. Draw the interpolated precision and recall curve for Q1.
+iii. What is the Mean Average Precision(MAP) of the search engine?
+
+B. In the context of ranked retrieval two search engines A and B claim the following [2.5+2.5=5 M]
+Scenario – 1
+Scenario – 2
+System A obtains an average Precision of 0.50 System A obtains an average Precision of 0.50
+at rank 10
+at rank 1
+System B obtains an average Precision of 0.10 System A obtains an average Precision of 0.20
+at rank 10
+at rank 20
+As a user using the information in both scenarios which search engine you would prefer and why?
+C.
+Figure-1 depicts interpolated precisionrecall curves for two search engines that
+index research articles. There is no
+difference between the engines except in
+how they score documents. Imagine you’re a
+researcher looking for all published work on
+some topic. You don’t want to miss any
+citation. Which engine would you prefer and
+why?
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkk[3M]
+
+Figure-1
+D. You are hired as an information retrieval specialist for Bing which plans to utilize user clicks in
+search evaluations. How would you improve the results returned by ranked retrieval using this
+information?
+[4M]
+Q2. Recommender Systems
+A. A library has adequate ratings for its book collection and it plans to use a more advanced
+recommendation system like the one used in Netflix prize. Suppose the mean ratings of the books
+is 3.7 stars. Aman, a faithful customer, has rated 400 books and his average rating is 0.3 stars higher
+than average users’ ratings. A book titled “Percy Jackson and the sea of monsters” in the library
+has 225,000 ratings whose average rating is 0.7 higher than the global average. Compute the
+baseline estimate of Aman for the title “Percy Jackson and the sea of monsters”?
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk[2M]
+
+B. Given the following normalized utility matrix of user ratings for products answer questions i-iii
+P1
+P2
+P3
+P4
+P5 P6
+0.67
+-2.33 1.67
+Aman
+0
+
+Eshaan
+Nidhi
+
+-2.33 1.67 0.67
+
+???
+
+Maya
+
+-2.6
+
+-0.6
+
+1.4
+
+0.4
+
+1.4
+
+i. Who is the nearest neighbor of Nidhi to predict rating for product P4?
+[3+2+3=8 M]
+ii. Which recommender system would you prefer if you want to predict for Maya for P5 and why?
+iii. What is the predicted rating for Nidhi with respect to Product P4 using User based collaborative
+filtering with two neighbors? [note use the weighted version of the rating formula]
+C. Let A be the matrix of size 500 users (rows) X100 movies (columns), using a Singular value
+decomposition if they are mapped to 5 genres/concepts answer questions i-iv.
+i. What are the sizes of matrices U, Σ and VT ?
+[1.5+1.5+2+2=7 M]
+ii. How many maximum number of non-zero elements can be there in the matrix Σ? What does
+each value in the matrix Σ signify?
+iii. After decomposing A into U, Σ, VT using SVD under what conditions is the matrix A invertible
+(i.e we can get back original A using U, Σ, VT ) and how?
+iv. After decomposing A you wish to retain only 3 genres how will you reduce the number of
+dimensions and what will the size of U, Σ, VT after dimension reduction?
+Q3. Machine Translation [Questions A – D must be answered assuming that we are translating
+from Hindi to English]
+A. In which phase of IBM Models is the parallel corpus used and why?
+[3M]
+B. Consider the following lexical translations from Hindi to English words.
+[2+1+4+2 = 9M]
+यह
+घर
+सुंदर
+है
+This – 0.8 house – 0.6
+beautiful – 0.5
+is - 1
+The – 0.13 home – 0.2
+pretty – 0.4
+It – 0.04
+dwelling – 0.1 lovely – 0.05
+She - 0.02 mansion – 0.05 nice looking – 0.05
+He – 0.01 building – 0.05
+i. Compute P(e,a|f) for translating the sentence यह घर सुंदर है
+ii. Is the value of P(e,a|f) for translating this sentence है घर सुंदर यह same as in question i.
+iii. Using the unigram langauge model for P(E), find the best translation sentence when IBM
+Model-1 is used. Use the following three setences as the corpus to compute P(E).
+This house is beautiful
+This house is pretty
+Pretty is the house
+iv. What type of language model P(E) should be used to generate meaningful sentences in english?
+C. Given the following sentence pair in Hindi and English (बिल्ली चटाई पर िैठ गई, The cat sat on the
+mat), if IBM Model – 2 is used for translation with le=6 and lf=5 with the following alignment
+a=(1,1,4,3,5,2) using the two parameters t and a express p(e,a|f)?
+[5 M]
+D. Fill in the blanks to complete the mathematical model of IBM Model -3.
+
+[4 M]
+
+******************************* ALL THE BEST *********************************
+
+

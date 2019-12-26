@@ -1,0 +1,126 @@
+Birla Institute of Technology & Science-Pilani
+Hyderabad Campus
+1st semester 2015-16
+Object Oriented Programming (CSF213)
+
+Comprehensive Examination
+Dt: 12.12.2015 FN
+Name of the Student:
+Marks:
+
+Weightage: 40%
+
++
+
+Time: 3 Hrs.
+ID No:
+
++
+Part-A
+
+Type: Close Book
+
+=
+Part-B
+
+Part-C
+
+Total
+
+====================================================================================
+
+PART-A
+
+(1X20=20M)
+
+1. Ranking or ordering of abstractions in Object orientation is known as___
+
+[
+
+]
+
+(a) hierarchy (b) nested classes (c ) abstract list (d) packaging
+2. C++ is strongly typed object oriented language.
+
+[ T / F ]
+
+3. Code acting on data is a basic characteristic of object oriented paradigm.
+
+[ T / F]
+
+4. The degree of connectivity among the elements of an abstraction is known as __
+
+(a) binding (b) cohesion (c ) coupling (d) association
+5. Static variables are allocated space in _____________segment.
+6. In Java, if a class Outer has a inner class Inner defined in it, when after compilation we will get
+______________and _________________class files. (give the names of files with extension).
+7. A reference variable of an abstract class can be declared.
+
+[ T / F]
+
+8. We have division assignment operator (“/=”) in Java.
+
+[ T / F]
+
+9. In Java, if we declare a byte type variable byte b; then the statement b=b*6; is not valid.
+
+[ T / F]
+
+10. While designing OO systems, we should see that cohesion is as less as possible.
+
+[ T /F ]
+
+PART-B
+1) Give four message forms used in Object Orientation, in message passing.
+
+(2M)
+
+Name of the Student:
+
+ID No:
+
+2) Brief on Daemon threads in Java. Give important features.
+
+3) With simple example brief on dynamic method dispatch in Java.
+
+4) Brief on use of multiple catch blocks for single try in exception handling.
+
+(2M)
+
+(3M)
+
+(3M)
+
+5)
+
+Give a simple code snippet give the use of synchronized blocks in java.
+
+(3M)
+
+6)
+
+Brief on context switching w.r.t., task execution by OS.
+
+(2M)
+
+7)
+
+Give a simple code snippet give the use of synchronized blocks in java
+
+PART-C
+
+(3M)
+
+1. Give the use and significance of such messaging, in the context of synchronization.
+Give a sample code snippet to perform communication between two threads using wait()
+and notify() methods. Present the whole stuff in the context of consumer/producer
+problem.
+[7M]
+
+2.
+
+Write code for Stack class that encapsulates a stack to handle 15 integer values. Define
+constructor, necessary variables, pop() and push() methods.
+(5M)
+
+
